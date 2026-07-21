@@ -29,7 +29,7 @@
 ## 🚀 How to Run
 After completed installation or cloning, navigate to the directory and run the application:
 
-### Go to your sumscan folder
+### From your root directory Navigate to the `sumscan`:
 cd sumscan
 
 ### Run the application
