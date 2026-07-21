@@ -37,6 +37,24 @@ python3 sumscan.py
 
 ---
 
+## 🛠️ Usage Guide
+> Enter your Target Host / URL (e.g., example.com or 192.168.1.1).
+
+> Select your desired Scan Mode from the dropdown menu.
+
+> Define port ranges or custom wordlist paths if applicable.
+
+> Click ▶ Start Scan to begin active reconnaissance.
+
+> Export your scan findings at any time using the 📥 Export Report button.
+
+
+## 📜 License
+Distributed under the MIT License. See LICENSE for more information.
+
+---
+
+
 ## 🚀 Installation & Setup
 
 ### Option 1: Automated 1-Line Installer (Kali Linux)
