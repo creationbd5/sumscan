@@ -1,6 +1,6 @@
 # SumScan - Web & Network Security Recon Suite
 
-**SumScan** is a high-performance, multi-threaded security reconnaissance suite built with Python and CustomTkinter. Designed for penetration testers, security researchers, and system administrators, SumScan provides a sleek "Pure Black" aesthetic GUI for rapid network diagnostic, OSINT footprinting, and web application reconnaissance.
+**SumScan** is a high-performance, multi-threaded security reconnaissance suite built with Python. Designed for penetration testers, security researchers, and system administrators, SumScan provides a sleek "Pure Black" aesthetic GUI for rapid network diagnostic, OSINT footprinting, and web application reconnaissance.
 
 ---
 
