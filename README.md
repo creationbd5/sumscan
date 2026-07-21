@@ -32,4 +32,4 @@
 Open your Kali Linux terminal and execute the following command to automatically download, install dependencies, create desktop shortcuts, and launch the tool:
 
 ```bash
-git clone [https://github.com/creationbd5/sumscan.git](https://github.com/creationbd5/sumscan.git) ~/sumscan && cd ~/sumscan && chmod +x install.sh && ./install.sh
+git clone https://github.com/creationbd5/sumscan.git ~/sumscan && cd ~/sumscan && chmod +x install.sh && ./install.sh
