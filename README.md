@@ -39,6 +39,8 @@ git clone https://github.com/creationbd5/sumscan.git ~/sumscan && cd ~/sumscan &
 
 After completed installation or cloning, navigate to the directory and run the application:
 
-```bash
+``` Go to your sumscan folder
 cd sumscan
+
+``` Run the application
 python3 sumscan.py
