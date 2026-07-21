@@ -1,0 +1,4 @@
+##Option 2: Manual Installation
+###Clone the Repository:
+git clone [https://github.com/creationbd5/sumscan.git](https://github.com/creationbd5/sumscan.git)
+cd sumscan
