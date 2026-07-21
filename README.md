@@ -37,14 +37,14 @@ git clone [https://github.com/creationbd5/SumScan.git](https://github.com/creati
 
 ---
 
-## Option 2: Manual Installation
+### Option 2: Manual Installation
 **Clone the Repository: Bash Command**
 git clone [https://github.com/creationbd5/SumScan.git](https://github.com/creationbd5/SumScan.git)
 cd SumScan
 
 ---
 
-## Install Required System & Python Dependencies:
+### Install Required System & Python Dependencies:
 **Bash Command**
 sudo apt update
 sudo apt install python3 python3-pip python3-tk -y
@@ -52,13 +52,13 @@ pip3 install customtkinter pillow dnspython --break-system-packages
 
 ---
 
-## Run the Application:
+### Run the Application:
 **Bash Command**
 python3 sumscan.py
 
 ---
 
-## 🛠️ Usage Guide
+### 🛠️ Usage Guide
 Enter your Target Host / URL (e.g., example.com or 192.168.1.1).
 
 Select your desired Scan Mode from the dropdown menu.
@@ -71,12 +71,12 @@ Export your scan findings at any time using the 📥 Export Report button.
 
 ---
 
-## 🤝 Contributing
+### 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change or improve.
 
 Feel free to submit feedback, bug reports, or feature requests.
 
 ---
 
-## 📜 License
+### 📜 License
 Distributed under the MIT License. See LICENSE for more information.
