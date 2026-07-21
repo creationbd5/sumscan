@@ -25,10 +25,21 @@
 
 ---
 
+
+## 🚀 How to Run
+After completed installation or cloning, navigate to the directory and run the application:
+
+### Go to your sumscan folder
+cd sumscan
+
+### Run the application
+python3 sumscan.py
+
+---
+
 ## 🚀 Installation & Setup
 
 ### Option 1: Automated 1-Line Installer (Kali Linux)
-
 Open your Kali Linux terminal and execute the following command to automatically download, install dependencies, create desktop shortcuts, and launch the tool:
 
 ```bash
