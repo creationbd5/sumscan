@@ -33,14 +33,3 @@ Open your Kali Linux terminal and execute the following command to automatically
 
 ```bash
 git clone https://github.com/creationbd5/sumscan.git ~/sumscan && cd ~/sumscan && chmod +x install.sh && ./install.sh
-
-
-## 🚀 How to Run
-
-After completed installation or cloning, navigate to the directory and run the application:
-
-``` Go to your sumscan folder
-cd sumscan
-
-``` Run the application
-python3 sumscan.py
